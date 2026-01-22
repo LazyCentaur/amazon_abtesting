@@ -1,2 +1,3 @@
-proyecto_abamazon.venv/
 .DS_Store
+proyecto_abamazon.venv/
+__pycache__/
